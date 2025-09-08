@@ -1841,7 +1841,6 @@ PRODUCT_PACKAGES += \
     liburee_meta_drmkeyinstall \
     libvcodec_oal \
     libvcodecdrv_header_stub \
-    libvibrator \
     libvow_ap_test_aa \
     libvow_ap_test_dd \
     libvow_ap_test_ha \
